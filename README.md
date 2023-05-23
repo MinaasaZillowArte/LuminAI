@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">Welcome to LuminAI</h2>
-<p align="center">Experience the Future of AI</p>
 
 # Desc
 
