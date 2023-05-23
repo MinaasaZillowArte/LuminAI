@@ -126,6 +126,13 @@ Please use the following coding standards and conventions to keep the project's 
 
 By contributing to the LuminAI project, you are helping to improve its functionality, performance, and user experience. Your contributions are highly appreciated and will be carefully reviewed. Thank you for your support in making LuminAI even better!
 
+## Contributors
+Thank you to everyone who contributed to the creation of the LuminAI project:
+- [Aurelian](https://github.com/Aurelian)
+- [Seraphim](https://github.com/Seraphim)
+
+If you have contributed to this project and would want to be listed as a contributor, please submit a Pull Request to update this README.
+
 ## License
 
 This project is distributed under an open-source license that does not include an MT-License.
