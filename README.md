@@ -45,7 +45,7 @@ The procedures listed below can be used to install and configure the LuminAI pro
 
 ```shell
 $ git clone https://github.com/MinaasaZillowArte/LuminAI/
-$ cd your-repo
+$ cd LuminAI
 $ npm install
 ```
 
