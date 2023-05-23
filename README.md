@@ -1,11 +1,9 @@
 <p align="center">
   <img src="rsz_1adada.jpg" alt="Logo">
-  <h2 align="center">Welcome to LuminAI</h2>
-  <p align="center">Experience the Future of AI</p>
-  <p align="center">
-  </p>
-  <br>
 </p>
+
+<h2 align="center">Welcome to LuminAI</h2>
+<p align="center">Experience the Future of AI</p>
 
 # Desc
 
