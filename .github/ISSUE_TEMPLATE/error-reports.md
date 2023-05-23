@@ -43,6 +43,4 @@ Is there any additional information that you think might be helpful in resolving
 
 ---
 
-You can copy and paste this template into a new issue on GitHub, then fill in the relevant details based on the error you encountered. This will provide a structured format for reporting the error and help the maintainers or developers address the issue efficiently.
-
 Remember to provide as much relevant information as possible to help the team understand and reproduce the error.
