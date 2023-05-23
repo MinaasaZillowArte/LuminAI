@@ -129,7 +129,7 @@ By contributing to the LuminAI project, you are helping to improve its functiona
 ## Contributors
 Thank you to everyone who contributed to the creation of the LuminAI project:
 - [Aurelian](https://github.com/Aurelian)
-- [Seraphim](https://github.com/Seraphim)
+- [Seraphim](https://github.com/aboutusco)
 
 If you have contributed to this project and would want to be listed as a contributor, please submit a Pull Request to update this README.
 
