@@ -1,10 +1,11 @@
 <p align="center">
   <img src="rsz_1adada.jpg" alt="Logo">
+  <h2 align="center">Welcome to LuminAI</h2>
+  <p align="center">Experience the Future of AI</p>
+  <p align="center">
+  </p>
+  <br>
 </p>
-<div align="center">
-  <h2 style="color: #ff9900; font-size: 24px;">LuminAI</h2>
-  <p style="font-style: italic;">Still Beta.</p>
-</div>
 
 # Desc
 
