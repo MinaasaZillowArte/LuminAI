@@ -1,6 +1,17 @@
 ![logo](rsz_1adada.jpg)
 
-# LuminAI
+<p align="center">
+  <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap">
+    <img src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" alt="Developer Roadmap" width="96" height="96">
+  </a>
+  <h2 align="center">LuminAI</h2>
+  <p align="center">Roadmap to becoming an Artificial Intelligence Expert in 2022</p>
+  <p align="center">
+  </p>
+  <br>
+</p>
+
+# Desc
 
 A versatile virtual assistant, LuminAI is an open-source conversational artificial intelligence (ChatAI) system. It utilizes the strength of machine learning algorithms and natural language processing (NLP) techniques to provide interactive and intelligent dialogues that meet a variety of user needs.
 
