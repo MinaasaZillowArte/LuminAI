@@ -23,7 +23,7 @@ Advanced conversational AI virtual assistant LuminAI, often referred to as ChatA
 
 The goal of LuminAI is to provide a thorough virtual assistant experience that meets consumers' expectations in a variety of fields. LuminAI seeks to be a flexible and useful conversational partner, whether it is responding to general questions, making recommendations, or helping with particular activities.
 
-Key Features:
+## Features:
 
 1. **Natural Language Understanding:** To effectively understand and interpret user inquiries, LuminAI makes advantage of its sophisticated language processing capabilities. More efficient interactions are made possible by its ability to comprehend context, nuance, and complex directions.
 
