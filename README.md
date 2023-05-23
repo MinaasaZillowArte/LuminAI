@@ -128,14 +128,10 @@ By contributing to the LuminAI project, you are helping to improve its functiona
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is distributed under an open-source license that does not include an MT-License.
 
-The LuminAI project may be used, modified, and distributed without restriction under the terms of the MIT License, which is a permissive open-source license. You are given the discretion to customize the program to suit your needs and incorporate it into your own initiatives, be they private, public, or for profit.
+Under the terms of the open-source license, which is a permissive license, the LuminAI project may be used, modified, and distributed without restriction. You have the freedom to tailor the program to your specific needs and incorporate it into your own projects, whether private, public, or for profit.
 
-You consent to abide by the MIT License's terms and restrictions by using or contributing to the LuminAI project. It is crucial to read the license file (LICENSE) in order to fully comprehend your rights and obligations.
+By using or contributing to the LuminAI project, you agree to the open-source license's terms and conditions.
 
-The MIT License encourages developers like you to share and contribute to the project while protecting intellectual property rights. It also fosters collaboration and an open development community.
-
-Although LuminAI is distributed under the MIT License, some dependencies or project components can have different licenses. It is also crucial to read and abide by the licenses of these dependencies.
-
-Please see the [MIT License](LICENSE) file in the LuminAI repository for further information.
+While protecting intellectual property rights, the open-source license enables developers like you to participate and contribute to the project. It also promotes open development and collaboration.
