@@ -1,3 +1,5 @@
+![logo](adada.jpeg)
+
 # LuminAI
 
 A versatile virtual assistant, LuminAI is an open-source conversational artificial intelligence (ChatAI) system. It utilizes the strength of machine learning algorithms and natural language processing (NLP) techniques to provide interactive and intelligent dialogues that meet a variety of user needs.
