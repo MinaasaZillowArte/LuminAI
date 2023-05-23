@@ -1,4 +1,4 @@
-![logo](adada.jpeg)
+![logo](rsz_1adada.jpg)
 
 # LuminAI
 
