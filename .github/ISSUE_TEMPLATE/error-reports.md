@@ -40,7 +40,3 @@ Paste the error message or stack trace here
 ### Additional Information
 
 Is there any additional information that you think might be helpful in resolving this issue? Please provide it here.
-
----
-
-Remember to provide as much relevant information as possible to help the team understand and reproduce the error.
