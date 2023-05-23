@@ -31,7 +31,7 @@ Key Features:
 
 3. **Task Assistance:** Numerous tasks, like establishing reminders, organizing schedules, sending notifications, and making recommendations, can be aided by LuminAI. It attempts to make users' daily routines simpler and more effective.
 
-4. **Product Recommendations ALPHA:** LuminAI can make tailored recommendations for products like books, movies, restaurants, and other things based on the tastes of the user. It offers ideas that are specifically suited to each person's likes.
+4. **Product Recommendations // ALPHA:** LuminAI can make tailored recommendations for products like books, movies, restaurants, and other things based on the tastes of the user. It offers ideas that are specifically suited to each person's likes.
 
 5. **Language Translation:** Language translation skills are supported by LuminAI, facilitating easier communication and understanding across linguistic barriers. Cross-language communication is made easier by its assistance in translating words, phrases, and even whole documents.
 
