@@ -1,5 +1,5 @@
 <p align="center">
-  ![logo](rsz_1adada.jpg)
+  <img src="rsz_1adada.jpg" alt="Logo">
   <h2 align="center">LuminAI</h2>
   <p align="center">Still Beta.</p>
   <p align="center">
